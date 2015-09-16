@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+=============
+
+I have 1 year of Java experience from taking a class.
